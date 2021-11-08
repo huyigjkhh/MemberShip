@@ -23,7 +23,7 @@ SQL  테이블명 : smember
 
 ![reg_e](https://user-images.githubusercontent.com/93318468/140670350-bdb0dfc6-eb30-48bd-9054-e2de7d2ddff9.jpg)
 
-# 주의 : 심화 학습
+# 심화 학습
 본 예제는 기본적인 프로그램 프로세스로 구현되었습니다.
 
 아래와 같이 심화 학습을 해보기 바랍니다.
