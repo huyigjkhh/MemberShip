@@ -21,8 +21,8 @@ SQL  테이블명 : smember
 
 # 프로그램 화면
 (1)로그인
+![화면 캡처 2021-11-08 175837](https://user-images.githubusercontent.com/93908620/140713069-bdf952a5-66eb-4f97-96eb-2ce69c2c4f3a.png)
 
-![login](https://user-images.githubusercontent.com/93318468/140670337-7d7177d0-4fee-4b20-a90b-6983c8e1a648.jpg)
 
 (2) 회원가입
 
