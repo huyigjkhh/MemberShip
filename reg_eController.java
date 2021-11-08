@@ -69,7 +69,7 @@ public class reg_eController implements Initializable {
 
 	public void btnCloseAction(ActionEvent event) {
 		try {
-			Stage stage = (Stage) btnCancel.getScene().getWindow();
+			Stage stage = (Stage) btnClose.getScene().getWindow();
 			Parent root = FXMLLoader.load(getClass().getResource("login.fxml"));
 			Scene scene = new Scene(root, 600, 400);
 			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
