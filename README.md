@@ -11,6 +11,7 @@ SQL  테이블명 : smember
                필드 : USERID,USERPWD,UNAME,UNUMBER,UPHONE,UMAJOR,UADDRESS
                
 --module-info.java 파일 내 추가내용--
+
 	requires javafx.controls;
 	requires javafx.fxml;
 	requires java.sql;
